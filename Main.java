@@ -1,6 +1,3 @@
-//importing modules
-
-
 import java.io.*;
 import javax.servlet.*;
 import javax.servlet.http.*;
@@ -26,4 +23,5 @@ public class Main extends HttpServlet {
             out.println("</body></html>");
         }
     }
+
 }
